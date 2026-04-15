@@ -2,7 +2,7 @@
 ### 📊 Data Analyst Project | MySQL + Excel  
 
 ![SQL](https://img.shields.io/badge/SQL-MySQL-blue?style=for-the-badge&logo=mysql)
-![Excel](https://img.shields.io/badge/Excel-Dashboard-green?style=for-the-badge&logo=microsoft-excel)
+![Excel](https://img.shields.io/badge/Excel-Presentation-green?style=for-the-badge&logo=microsoft-excel)
 ![Analytics](https://img.shields.io/badge/Data%20Analysis-Business%20Insights-orange?style=for-the-badge&logo=google-analytics)
 
 ---
