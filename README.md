@@ -1,39 +1,38 @@
-                                 IPL Performance Analysis – Data Analyst Project (MySQL + Excel)
-    
-                                                         Project Overview
-This project analyzes 11 IPL seasons (2008–2018) with data from 800+ matches and 260+ players, focusing on Royal Challengers Bangalore (RCB).
-The goal was to evaluate team and player performance, uncover auction strategies, and address RCB’s historical weaknesses.
+# 🏏 IPL Performance Analysis – Data Analyst Project (MySQL + Excel)
 
-                                                            What I Did
-                                                            
-Queried and analyzed 5M+ ball-by-ball records using MySQL.
+## 📌 Project Overview
+This project analyzes 11 seasons of IPL data (2008–2018), covering 800+ matches and 260+ players, with a focused evaluation of Royal Challengers Bangalore (RCB). The objective was to assess team and player performance, identify strategic gaps, and provide data-driven recommendations for auction and squad improvement.
 
-Computed team-wise win percentages, toss impact (1,000+ tosses), and venue-wise performance across 15 venues.
+---
 
-Identified top 10 batsmen (30+ runs/match) and top 10 bowlers (50+ wickets).
+## 🔍 Key Responsibilities
+- Analyzed 5M+ ball-by-ball records using MySQL for detailed performance evaluation.  
+- Computed team-wise win percentages, toss impact (1,000+ tosses), and venue-based performance across 15 venues.  
+- Identified top-performing batsmen (30+ runs/match) and bowlers (50+ wickets).  
+- Conducted all-rounder analysis (150+ runs & 10+ wickets) to identify high-value players.  
+- Built Excel dashboards using bar charts, line graphs, and heatmaps to visualize key performance metrics.  
 
-Conducted all-rounder analysis (150+ runs & 10+ wickets) to shortlist multi-skilled players for auctions.
+---
 
-Built Excel dashboards with bar charts, line graphs, and heatmaps to visualize batting consistency, bowling economy, and home-ground advantage.
+## 📊 Key Insights
+- **Toss Impact**: Winning the toss increased match-winning probability by ~6%.  
+- **Venue Performance**: Underperformance at home ground indicated poor utilization of home advantage.  
+- **Batting Analysis**: Strong top-order performance but frequent middle-order collapses.  
+- **Bowling Gap**: Lack of consistent wicket-taking bowlers affected match outcomes.  
+- **All-Rounders**: Limited pool of impactful all-rounders highlighted the need for balanced team composition.  
 
-                                                            Key Insights
+---
 
-Toss Factor: Winning the toss improved match-winning probability by ~6%.
+## 🛠 Tools & Technologies
+- **SQL (MySQL)**: Joins, Subqueries, CTEs, Window Functions, Aggregations  
+- **Microsoft Excel**: Dashboard creation, charts, and data visualization  
+- **Data Analysis**: Trend analysis, performance benchmarking, and strategic insights  
 
-Venue Analysis: Home ground performance lagged, signaling weak utilization of local advantage.
+---
 
-Batting Strength: Consistent run-scorers identified, but middle-order collapses were frequent.
+## 🚀 Business Impact
+- Provided actionable recommendations for player retention and auction strategies.  
+- Identified key gaps in bowling strength and middle-order stability.  
+- Suggested focus areas to improve home-ground performance and team balance.  
 
-Bowling Gap: Lack of wicket-taking bowlers was a recurring weakness.
-
-All-Rounders: A small pool of versatile players could balance RCB’s squad.
-
-                                                          Tools & Skills Used
-
-SQL (MySQL): Joins, Subqueries, CTEs, Window Functions, Aggregations.
-
-Excel: Dashboards with Bar Charts, Line Graphs, and Heatmaps.
-
-Data Analysis: Performance benchmarking, trend evaluation, and player selection strategy.
-
-Business Impact: Recommendations for player retention and auction picks to strengthen bowling and middle-order depth.
+---
