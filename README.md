@@ -1,38 +1,52 @@
-# 🏏 IPL Performance Analysis – Data Analyst Project (MySQL + Excel)
+# 🏏 IPL Performance Analysis  
+### 📊 Data Analyst Project | MySQL + Excel  
 
-## 📌 Project Overview
-This project analyzes 11 seasons of IPL data (2008–2018), covering 800+ matches and 260+ players, with a focused evaluation of Royal Challengers Bangalore (RCB). The objective was to assess team and player performance, identify strategic gaps, and provide data-driven recommendations for auction and squad improvement.
-
----
-
-## 🔍 Key Responsibilities
-- Analyzed 5M+ ball-by-ball records using MySQL for detailed performance evaluation.  
-- Computed team-wise win percentages, toss impact (1,000+ tosses), and venue-based performance across 15 venues.  
-- Identified top-performing batsmen (30+ runs/match) and bowlers (50+ wickets).  
-- Conducted all-rounder analysis (150+ runs & 10+ wickets) to identify high-value players.  
-- Built Excel dashboards using bar charts, line graphs, and heatmaps to visualize key performance metrics.  
+![SQL](https://img.shields.io/badge/SQL-MySQL-blue?style=for-the-badge&logo=mysql)
+![Excel](https://img.shields.io/badge/Excel-Dashboard-green?style=for-the-badge&logo=microsoft-excel)
+![Analytics](https://img.shields.io/badge/Data%20Analysis-Business%20Insights-orange?style=for-the-badge&logo=google-analytics)
 
 ---
 
-## 📊 Key Insights
-- **Toss Impact**: Winning the toss increased match-winning probability by ~6%.  
-- **Venue Performance**: Underperformance at home ground indicated poor utilization of home advantage.  
-- **Batting Analysis**: Strong top-order performance but frequent middle-order collapses.  
-- **Bowling Gap**: Lack of consistent wicket-taking bowlers affected match outcomes.  
-- **All-Rounders**: Limited pool of impactful all-rounders highlighted the need for balanced team composition.  
+## 🚀 Project Overview  
+This project analyzes 11 IPL seasons (2008–2018), covering **800+ matches** and **260+ players**, with a focused deep-dive into **Royal Challengers Bangalore (RCB)**.  
+
+The objective was to evaluate team performance, identify key weaknesses, and generate **data-driven strategies** for auctions and squad improvement.
 
 ---
 
-## 🛠 Tools & Technologies
-- **SQL (MySQL)**: Joins, Subqueries, CTEs, Window Functions, Aggregations  
-- **Microsoft Excel**: Dashboard creation, charts, and data visualization  
-- **Data Analysis**: Trend analysis, performance benchmarking, and strategic insights  
+## 🔍 What I Did  
+✨ Analyzed **5M+ ball-by-ball records** using MySQL  
+📈 Computed **win percentages**, toss impact (1,000+ tosses), and venue-wise performance  
+🏏 Identified **Top 10 batsmen** (30+ runs/match) and **Top 10 bowlers** (50+ wickets)  
+⚖️ Performed **all-rounder analysis** (150+ runs & 10+ wickets)  
+📊 Built **interactive Excel dashboards** with charts & heatmaps for performance tracking  
 
 ---
 
-## 🚀 Business Impact
-- Provided actionable recommendations for player retention and auction strategies.  
-- Identified key gaps in bowling strength and middle-order stability.  
-- Suggested focus areas to improve home-ground performance and team balance.  
+## 📊 Key Insights  
+🔹 **Toss Advantage** → Winning the toss increased win probability by ~6%  
+🔹 **Home Ground Weakness** → Poor utilization of home advantage  
+🔹 **Batting Pattern** → Strong top order but frequent middle-order collapses  
+🔹 **Bowling Gap** → Lack of consistent wicket-taking bowlers  
+🔹 **All-Rounder Value** → Small pool of high-impact multi-skilled players  
+
+---
+
+## 🛠 Tools & Technologies  
+💾 **SQL (MySQL)** → Joins, CTEs, Window Functions, Aggregations  
+📊 **Excel** → Dashboards, Bar Charts, Line Graphs, Heatmaps  
+📈 **Data Analysis** → Trend Analysis, Performance Benchmarking  
+
+---
+
+## 💡 Business Impact  
+✔ Identified gaps in **bowling strength & middle-order stability**  
+✔ Provided **auction strategy recommendations**  
+✔ Suggested improvements for **team balance & home performance**  
+
+---
+
+## ⭐ Key Takeaway  
+This project demonstrates how data can uncover hidden patterns in sports performance and drive **strategic decision-making** for team success.
 
 ---
